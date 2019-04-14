@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://angela.io/sitemap.xml
+Sitemap: http://angela.io/image_sitemap.xml
